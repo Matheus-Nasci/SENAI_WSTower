@@ -1,0 +1,16 @@
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.deps.json
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.runtimeconfig.json
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.runtimeconfig.dev.json
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.dll
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.csprojAssemblyReference.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.AssemblyInfoInputs.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.AssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.RazorAssemblyInfo.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.RazorAssemblyInfo.cs
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.RazorTargetAssemblyInfo.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.genruntimeconfig.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\bin\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.pdb
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.dll
+C:\Users\Matheus Nascimento\Desktop\SENAI_WSTower_API\Senai.WSTowerWebApi.DataBaseFirst\Senai.WSTowerWebApi.DataBaseFirst\obj\Debug\netcoreapp2.1\Senai.WSTowerWebApi.DataBaseFirst.pdb
